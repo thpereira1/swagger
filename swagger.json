@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/thpereira1/swagger/main/swagger.yaml",
+    "url": "https://raw.githubusercontent.com/b1gn0se/swagger/main/swagger.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/thpereira1/swagger/main/swagger.yaml",
+            "url": "https://raw.githubusercontent.com/b1gn0se/swagger/main/swagger.yaml",
             "name": "Foo"
         }
     ]
